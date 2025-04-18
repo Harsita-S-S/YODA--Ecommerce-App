@@ -1,0 +1,7 @@
+Samsung Galaxy A54,29999.00,Electronics,6.5 inch AMOLED display with 128GB storage,Samsung,Mobile,Exynos 1280 chipset with 5000mAh battery  
+boAt Stone 170,4999.00,Electronics,Portable waterproof speaker with 12hr playtime,boAt,Speaker,10W output with Bluetooth 5.0  
+Puma Fleece Hoodie,1599.00,Clothes,Warm fleece hoodie with front pockets,L,Fleece,Casual,Puma  
+Van Heusen Slim Fit Shirt,1299.00,Clothes,Slim fit striped formal shirt,M,Cotton,Formal,Van Heusen  
+Sheesham Dining Table,12499.00,Furniture,6-seater rectangular dining table with glossy finish,Sheesham,Table,Polished surface with sturdy legs  
+Mango Wood Bookshelf,6999.00,Furniture,5-tier open bookshelf with modern design,Mango wood,Shelf,Compact design with anti-tip feature
+Apple AirPods Pro 2nd Gen,24999.00,Electronics,Active Noise Cancellation, Transparency Mode,Apple,Headphones,Improved sound quality with H2 chip
